@@ -1,0 +1,44 @@
+[
+    {
+        "BookID": 1,
+        "Title": "Test1",
+        "Author": "testov",
+        "Year": 1200,
+        "Status": "в наличии"
+    },
+    {
+        "BookID": 2,
+        "Title": "Test1",
+        "Author": "test1",
+        "Year": 1201,
+        "Status": "в наличии"
+    },
+    {
+        "BookID": 3,
+        "Title": "Test2",
+        "Author": "test2",
+        "Year": 1201,
+        "Status": "в наличии"
+    },
+    {
+        "BookID": 4,
+        "Title": "Test1",
+        "Author": "test3",
+        "Year": 1400,
+        "Status": "в наличии"
+    },
+    {
+        "BookID": 5,
+        "Title": "Test4",
+        "Author": "test1",
+        "Year": 1245,
+        "Status": "выдана"
+    },
+    {
+        "BookID": 6,
+        "Title": "faef",
+        "Author": "sdgeg",
+        "Year": 314,
+        "Status": "в наличии"
+    }
+]
